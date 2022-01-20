@@ -6,7 +6,7 @@
 <html lang="ko" style="overflow-y: scroll; min-height: 100%;">
 <head>
 <meta charset="UTF-8">
-<title>Insert title here23</title>
+<title>Insert title here2</title>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script type="text/javascript" src="product/game.js"></script>
 <script type="text/javascript" src="etc/etc.js"></script>
